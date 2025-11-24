@@ -1,0 +1,14 @@
+Package: ComparMedia
+Type: Package
+Title: Teste t Pareado Interativo
+Version: 0.1.0
+Authors@R: person("Wanderley Xavier", "Pereira", 
+    email = "wpereira@refetmg.br",
+    role = c("aut", "cre"))
+Description: Fornece uma interface interativa para realizar testes t pareados,
+    permitindo entrada de dados via console e apresentando resultados 
+    formatados com interpretacao estatistica.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.3
