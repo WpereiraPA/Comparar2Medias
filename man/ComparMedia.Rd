@@ -10,7 +10,15 @@ Este pacote fornece uma funcao interativa para realizar testes t pareados,
 facilitando a analise estatistica de dados pareados atraves de uma interface
 amigavel no console R.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/WpereiraPA/Comparar2Medias}
+  \item Report bugs at \url{https://github.com/WpereiraPA/Comparar2Medias/issues}
+}
+
+}
 \author{
-\strong{Maintainer}: Wanderley Xavier Pereira \email{wpereira@refetmg.br}
+\strong{Maintainer}: Wanderley Xavier Pereira \email{wander.wx@gmail.com}
 
 }
